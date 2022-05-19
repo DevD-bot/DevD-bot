@@ -10,6 +10,8 @@
 - 💞️ I’m looking to collaborate on nothing as of now
 - 📫 How to reach me -> 9971379059 just a DM or whatsapp dm.
 
+Check this only and only if you are getting bored -https://leetcode.com/DevD2905/
+
 
 You can visit my ->![image](https://user-images.githubusercontent.com/97430953/166866511-0a5f8007-bd1b-4916-8ced-6ceef79d931d.png)
 https://www.linkedin.com/in/devyansh-singh-24a76918b/
