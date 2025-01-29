@@ -1,21 +1,48 @@
+## 👋 Hey there, I'm [Devyansh Singh](https://www.linkedin.com/in/devyansh-singh-24a76918b/)!
 
-![image](https://user-images.githubusercontent.com/97430953/166866319-eef81731-1f65-4d61-bb87-50b4a719c265.png)
+### 🚀 About Me
+- 👀 Passionate about **re-creating things** and problem-solving.
+- 🌱 Currently diving deep into **Back-End Development**.
+- 💼 Open to learning and growing, but **not looking to collaborate** at the moment.
+- 📫 Reach me at **9971379059** (DM or WhatsApp).
 
-      (▀̿Ĺ̯▀̿ ̿)
+---
 
+### 🛠️ Tech Stack
+#### 🚀 Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-- 👋 Hi, I’m @Devyansh Singh
-- 👀 I’m interested in re-creating things
-- 🌱 I’m currently learning BackEnd development
-- 💞️ I’m looking to collaborate on nothing as of now
-- 📫 How to reach me -> 9971379059 just a DM or whatsapp dm.
+#### 💻 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-Check this only and only if you are getting bored -https://leetcode.com/DevD2905/
+---
 
+### 🌟 My Coding Playground
+If you're **bored** and love solving problems, feel free to check out my **LeetCode Profile**:  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/DevD2905/)
 
-You can visit my ->![image](https://user-images.githubusercontent.com/97430953/166866511-0a5f8007-bd1b-4916-8ced-6ceef79d931d.png)
-https://www.linkedin.com/in/devyansh-singh-24a76918b/
-<!---
-DevD-bot/DevD-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📌 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devyansh-singh-24a76918b/)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9971379059)
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevD-bot&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevD-bot&layout=compact&theme=radical)
+
+---
+
+### 🎯 Fun Fact
+```
+(▀̿Ĺ̯▀̿ ̿)   "I break things to learn how to fix them!"
+```
+
+Feel free to fork this repository, drop a **star**, or just say hi! 🚀
